@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "SeparateDXF/1.0.0": {
+        "dependencies": {
+          "netDxf": "3.0.1.0"
+        },
+        "runtime": {
+          "SeparateDXF.dll": {}
+        }
+      },
+      "netDxf/3.0.1.0": {
+        "runtime": {
+          "netDxf.dll": {
+            "assemblyVersion": "3.0.1.0",
+            "fileVersion": "3.0.1.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SeparateDXF/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "netDxf/3.0.1.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
